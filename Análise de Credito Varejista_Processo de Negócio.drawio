@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T22:28:57.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="lNrZ1HBpkS380QL5Lmcy" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T23:00:18.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="xCOSyMU4jBtfhc69Tf8n" version="24.4.13" type="github">
   <diagram name="Página-1" id="HzU6DnvcWr33lS5XU5_k">
-    <mxGraphModel dx="3668" dy="744" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3190" dy="487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
             <mxPoint x="596" y="201" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1_kbiJudmcKUoZWItg5-132" value="&lt;div&gt;Envia CSV para Serasa (FTP)&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1">
+        <mxCell id="F1_kbiJudmcKUoZWItg5-132" value="&lt;div&gt;Envia CSV &lt;br&gt;Serasa (FTP)&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1">
           <mxGeometry x="498.5" y="207" width="138.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-133" value="&lt;div&gt;Separação d&lt;span style=&quot;background-color: initial;&quot;&gt;e Leads&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1">
@@ -86,7 +86,7 @@
         <mxCell id="F1_kbiJudmcKUoZWItg5-188" value="Serasa Consulta WEB" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=abstract;" parent="F1_kbiJudmcKUoZWItg5-145" vertex="1">
           <mxGeometry x="632" y="124" width="211" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="79ErXldQENfmmi73Sjbb-11" value="SERASA FTP" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" vertex="1" parent="F1_kbiJudmcKUoZWItg5-145">
+        <mxCell id="79ErXldQENfmmi73Sjbb-11" value="SERASA FTP" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" parent="F1_kbiJudmcKUoZWItg5-145" vertex="1">
           <mxGeometry x="24" y="377" width="1625" height="386" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-149" value="Backoffice" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1">
@@ -175,7 +175,7 @@
             <mxPoint x="832.4116022099447" y="506" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1_kbiJudmcKUoZWItg5-155" value="Baixa CSV&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Serasa&lt;/span&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1">
+        <mxCell id="F1_kbiJudmcKUoZWItg5-155" value="Baixa CSV&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Serasa FTP&lt;/span&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1">
           <mxGeometry x="761" y="431" width="148" height="66" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-157" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-128" target="F1_kbiJudmcKUoZWItg5-128" edge="1">
@@ -232,7 +232,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="79ErXldQENfmmi73Sjbb-9" value="SERASA RELATO | CONSULTA" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="79ErXldQENfmmi73Sjbb-9" value="SERASA RELATO | CONSULTA" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-492" y="2365" width="1626" height="376" as="geometry" />
         </mxCell>
       </root>
