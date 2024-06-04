@@ -1,0 +1,48 @@
+Diagrama
+
+┌────────────────────────────┐
+│   Separação de Suspects    │
+│          e Leads           │
+└──────────────┬─────────────┘
+               │
+               │
+┌──────────────▼─────────────┐
+│  Montagem da Base de Leads │
+└──────────────┬─────────────┘
+               │
+               │
+┌──────────────▼─────────────┐
+│  Preparação do Arquivo CSV │
+│  - CNPJ sem caracteres     │
+│  - Cabeçalho com data      │
+│  - Footer com "9"          │
+└──────────────┬─────────────┘
+               │
+               │
+┌──────────────▼─────────────┐
+│   Envio para Serasa (FTP)  │
+│  - Pasta: SOI-INTEGRADAS   │
+└──────────────┬─────────────┘
+               │
+               │
+┌──────────────▼─────────────┐
+│ Mover CSV para "ENVIADOS"  │
+└──────────────┬─────────────┘
+               │
+               │
+┌──────────────▼─────────────┐
+│  Retorno do Serasa (Excel) │
+│  - Pasta: RECEBIDOS        │
+└──────────────┬─────────────┘
+               │
+               │
+┌──────────────▼─────────────┐
+│   Análise no Power BI      │
+│  - Validação dos CNPJs     │
+└──────────────┬─────────────┘
+               │
+               │
+┌──────────────▼─────────────┐
+│  Envio dos CNPJs Aprovados │
+│      para Salesforce       │
+└────────────────────────────┘
