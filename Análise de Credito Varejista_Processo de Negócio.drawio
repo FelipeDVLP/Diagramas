@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T23:01:28.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Cr4PCz43eCkO7dmLpgtG" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T12:54:59.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="lntQaKhYDpfthz9sdYn_" version="24.4.13" type="github">
   <diagram name="Página-1" id="HzU6DnvcWr33lS5XU5_k">
-    <mxGraphModel dx="3190" dy="487" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2285" dy="-11" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F1_kbiJudmcKUoZWItg5-124" value="Frontoffice" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="F1_kbiJudmcKUoZWItg5-124" value="&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;Inteligência de Mercado&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-491" y="969" width="1622" height="540" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-125" value="Análise de Crédito Varejista" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=none;" parent="1" vertex="1">
@@ -17,10 +17,7 @@
           <mxGeometry x="79" y="103" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-128" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1">
-          <mxGeometry x="1186" y="231" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="F1_kbiJudmcKUoZWItg5-129" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-137" target="F1_kbiJudmcKUoZWItg5-140" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1490" y="221" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-130" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-140" target="F1_kbiJudmcKUoZWItg5-143" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,18 +51,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-139" value="" style="group;shadow=1;rounded=0;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1" connectable="0">
-          <mxGeometry x="769" y="216" width="144.75" height="67" as="geometry" />
+          <mxGeometry x="1073" y="206" width="144.75" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="F1_kbiJudmcKUoZWItg5-140" value="Analisa CNPJ Power BI&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" parent="F1_kbiJudmcKUoZWItg5-139" vertex="1">
+        <mxCell id="F1_kbiJudmcKUoZWItg5-140" value="Analisa CNPJ&amp;nbsp;&lt;div&gt;Power BI&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" parent="F1_kbiJudmcKUoZWItg5-139" vertex="1">
           <mxGeometry width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-141" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-139" vertex="1">
           <mxGeometry x="114" y="26" width="30.75" height="41" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-142" value="" style="group;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1" connectable="0">
-          <mxGeometry x="983" y="216" width="151" height="66" as="geometry" />
+          <mxGeometry x="1287" y="206" width="151" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="F1_kbiJudmcKUoZWItg5-143" value="Envia CNPJs Aprovados" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" parent="F1_kbiJudmcKUoZWItg5-142" vertex="1">
+        <mxCell id="F1_kbiJudmcKUoZWItg5-143" value="Envia CNPJs Aprovados&lt;div&gt;Salesforce&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;glass=0;" parent="F1_kbiJudmcKUoZWItg5-142" vertex="1">
           <mxGeometry width="131" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-144" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.learning;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-142" vertex="1">
@@ -170,46 +167,33 @@
         <mxCell id="F1_kbiJudmcKUoZWItg5-151" value="&amp;nbsp;Preparação do Arquivo" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1">
           <mxGeometry x="494" y="86" width="140" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="F1_kbiJudmcKUoZWItg5-154" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-155" target="F1_kbiJudmcKUoZWItg5-137" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="832.4116022099447" y="506" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-155" value="Baixa CSV&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Serasa FTP&lt;/span&gt;" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=1;expand=0;collapsible=0;taskMarker=manual;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1">
-          <mxGeometry x="498.5" y="322" width="148" height="66" as="geometry" />
+          <mxGeometry x="494" y="354" width="148" height="66" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-157" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-128" target="F1_kbiJudmcKUoZWItg5-128" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-158" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;CSV Serasa&lt;div&gt;&lt;br&gt;Abas e colunas consideradas para input do Power BI:&lt;div&gt;&lt;ol&gt;&lt;li&gt;Dados_Cadastrais - [Situação = Ativa]&lt;/li&gt;&lt;li&gt;Restritivos - Total = (soma = [&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;Vl.Protesto], [Vl.Acoes], [Vl.Refin], [Vl.Achei], [Vl.Pefin], [Vl. Dividas Vencidas])&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Score_HPJ8 - [PRINAD]&lt;/li&gt;&lt;/ol&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;strokeWidth=1;perimeterSpacing=0;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1">
-          <mxGeometry x="906" y="319" width="50" height="97" as="geometry" />
-        </mxCell>
-        <mxCell id="F1_kbiJudmcKUoZWItg5-178" value="" style="group" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1" connectable="0">
-          <mxGeometry x="764" y="322" width="154.75" height="72" as="geometry" />
-        </mxCell>
-        <mxCell id="F1_kbiJudmcKUoZWItg5-137" value="Importa no Power BI" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=0;expand=0;collapsible=0;taskMarker=manual;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-178" vertex="1">
-          <mxGeometry width="142" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="F1_kbiJudmcKUoZWItg5-175" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;shadow=1;container=0;" parent="F1_kbiJudmcKUoZWItg5-178" vertex="1">
-          <mxGeometry x="124" y="31" width="30.75" height="41" as="geometry" />
+          <mxGeometry x="903" y="292" width="50" height="97" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-186" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-158" target="F1_kbiJudmcKUoZWItg5-158" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-197" value="Histórico inteiro Retorno CSV" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1">
-          <mxGeometry x="775" y="432" width="120" height="80" as="geometry" />
+          <mxGeometry x="719" y="269" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F1_kbiJudmcKUoZWItg5-199" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-197" target="F1_kbiJudmcKUoZWItg5-137" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="678" y="362" as="sourcePoint" />
-            <mxPoint x="707" y="354" as="targetPoint" />
+            <mxPoint x="1007" y="332" as="sourcePoint" />
+            <mxPoint x="1036" y="324" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1_kbiJudmcKUoZWItg5-203" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=openThin;startArrow=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-155" target="F1_kbiJudmcKUoZWItg5-148" edge="1">
+        <mxCell id="F1_kbiJudmcKUoZWItg5-203" value="" style="edgeStyle=elbowEdgeStyle;fontSize=12;html=1;endFill=0;startFill=0;endSize=6;startSize=6;dashed=1;dashPattern=1 4;endArrow=openThin;startArrow=none;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.986;exitY=0.955;exitDx=0;exitDy=0;exitPerimeter=0;" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-155" target="F1_kbiJudmcKUoZWItg5-148" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="908" y="467" as="sourcePoint" />
+            <mxPoint x="573" y="423" as="sourcePoint" />
             <mxPoint x="1257" y="1656" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1600" y="474" />
               <mxPoint x="1502" y="1067" />
             </Array>
           </mxGeometry>
@@ -232,8 +216,48 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="KHBi2TYa1fbSCButrYNQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-137" target="F1_kbiJudmcKUoZWItg5-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1_kbiJudmcKUoZWItg5-178" value="" style="group" parent="F1_kbiJudmcKUoZWItg5-125" vertex="1" connectable="0">
+          <mxGeometry x="868" y="204" width="154.75" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="F1_kbiJudmcKUoZWItg5-137" value="Importa no Power BI" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];shape=mxgraph.bpmn.task;whiteSpace=wrap;rectStyle=rounded;size=10;html=1;container=0;expand=0;collapsible=0;taskMarker=manual;shadow=1;" parent="F1_kbiJudmcKUoZWItg5-178" vertex="1">
+          <mxGeometry width="142" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="F1_kbiJudmcKUoZWItg5-175" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Power_BI_Embedded.svg;shadow=1;container=0;" parent="F1_kbiJudmcKUoZWItg5-178" vertex="1">
+          <mxGeometry x="124" y="31" width="30.75" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KHBi2TYa1fbSCButrYNQ-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-155" target="F1_kbiJudmcKUoZWItg5-137">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="805" y="489" as="sourcePoint" />
+            <mxPoint x="822" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="663" y="387" />
+              <mxPoint x="663" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KHBi2TYa1fbSCButrYNQ-8" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-158" target="F1_kbiJudmcKUoZWItg5-137">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="904" y="361" as="sourcePoint" />
+            <mxPoint x="822" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KHBi2TYa1fbSCButrYNQ-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="F1_kbiJudmcKUoZWItg5-125" source="F1_kbiJudmcKUoZWItg5-132" target="F1_kbiJudmcKUoZWItg5-155">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="377" y="351" as="sourcePoint" />
+            <mxPoint x="427" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="79ErXldQENfmmi73Sjbb-9" value="SERASA RELATO | CONSULTA" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="-492" y="2365" width="1626" height="376" as="geometry" />
+        </mxCell>
+        <mxCell id="KHBi2TYa1fbSCButrYNQ-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="522" y="1184" as="sourcePoint" />
+            <mxPoint x="572" y="1134" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
