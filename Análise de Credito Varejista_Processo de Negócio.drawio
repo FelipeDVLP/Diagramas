@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T14:31:40.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8DqAf5HoeLd_4-32ZIca" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T14:39:55.745Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="uoVwowBSV1kojrm4uSHd" version="24.4.13" type="github">
   <diagram name="Página-1" id="HzU6DnvcWr33lS5XU5_k">
-    <mxGraphModel dx="3175" dy="1035" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3504" dy="1208" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,10 +214,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KHBi2TYa1fbSCButrYNQ-59" value="&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;Inteligência de Mercado&lt;/span&gt;" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-987" y="208" width="1833" height="540" as="geometry" />
+          <mxGeometry x="-1039" y="215" width="1833" height="540" as="geometry" />
         </mxCell>
         <mxCell id="KHBi2TYa1fbSCButrYNQ-60" value="Análise de Crédito Varejista" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;strokeWidth=1;gradientColor=none;shadow=0;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1011" y="207" width="1858" height="540" as="geometry" />
+          <mxGeometry x="-1063" y="214" width="1858" height="540" as="geometry" />
         </mxCell>
         <mxCell id="KHBi2TYa1fbSCButrYNQ-61" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;shadow=0;" edge="1" parent="KHBi2TYa1fbSCButrYNQ-60" source="KHBi2TYa1fbSCButrYNQ-62" target="KHBi2TYa1fbSCButrYNQ-67">
           <mxGeometry relative="1" as="geometry" />
